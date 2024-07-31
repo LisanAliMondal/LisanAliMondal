@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=ff00dd&lines=i+am+Lisan+ALi+Mondal&#128519;;Welcome+to+my+github+profile;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=500&pause=1000&color=7220e6&background=fff&center=true&width=484&lines=From+ALIAH+UNIVERSITY+DEPARTMENT+OF+CSE)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yeasir0032&color=blueviolet&style=for-the-badge" alt="Yeasir0032" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LisanAliMondal&color=blueviolet&style=for-the-badge" alt="LisanAliMondal" /> </p>
 
 - 📫 How to reach me **sdyeasirrahaman@gmail.com**
 <h3 align="left">Connect with me:</h3>
