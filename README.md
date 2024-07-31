@@ -7,6 +7,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/yeasir-rahaman-33b1bb257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yeasir-rahaman-33b1bb257/" height="30" width="40" /></a>
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yeasir0032&show_icons=true&locale=en" alt="Yeasir0032" /></p>
  
  👋 Hi, I’m @LisanAliMondal 
 - 🌱 I’m currently learning web Development 
